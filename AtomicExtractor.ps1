@@ -7,8 +7,6 @@
     Test Payloads, and Descriptions, then saves them as a clean JSON file. 
     It handles missing technique names and cleans up control characters for better AI processing.
 
-.AUTHOR
-    Hazar (Offensive Security Consultant)
 #>
 
 # 1. Configuration & Module Loading
